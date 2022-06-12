@@ -1,0 +1,11 @@
+com\example\storeeverything\Role.class
+com\example\storeeverything\UserRepository.class
+com\example\storeeverything\StoreeverythingApplication.class
+com\example\storeeverything\User.class
+com\example\storeeverything\CustomUserDetails.class
+com\example\storeeverything\AppController.class
+com\example\storeeverything\Share.class
+com\example\storeeverything\CustomUserDetailsService.class
+com\example\storeeverything\RoleRepository.class
+com\example\storeeverything\ShareRepository.class
+com\example\storeeverything\WebSecurityConfig.class
